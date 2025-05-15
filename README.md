@@ -11,7 +11,7 @@
 ![添加库秘密变量](https://user-images.githubusercontent.com/30728105/165701800-ff57b82c-553d-4ddb-9687-d7be1c99801d.png)
 ![添加BDUSS](https://user-images.githubusercontent.com/30728105/165701943-d9086ff4-b251-437f-bb64-769f62fa730d.png)
 
-2. 设置好环境变量后点击你的仓库上方的 `Actions` 选项，第一次打开需要点击 `I understand...` 按钮，确认在 Fork 的仓库上启用 GitHub Actions 。
+2. 设置好环境变量后点击你的仓库上方的 `Actions` 选项，第一次打开需要点击 `I understand...` 按钮，确认在 Fork 的仓库上启用 GitHub Actions 。    
 
 3. 任意发起一次commit，可以参考下图流程修改readme文件。
 
